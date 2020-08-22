@@ -17,6 +17,6 @@ The application contains implementation of Redux, Sorting alphabetically and bac
 
 ![Sort functionality Demo](gifs/sort functionality.gif)
 
-![Set tasks priority Demo](gifs/set tasks priority.gif)
+![Set tasks priority Demo](gifs/setTasksPriority.gif)
 
 ![Drag and drop Demo](gifs/drag and drop.gif)
