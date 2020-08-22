@@ -3,8 +3,10 @@ The repository contains source code for a todo web app created with react, redux
 
 To run and use the application:
 
-1. npm i
+1. clone the project
 
-2. npm start
+2. npm i
+
+3. npm start
 
 The application contains implementation of Redux, Sorting alphabetically and back, Position tasks for priority, Drag and drop tasks as completed or pending.
